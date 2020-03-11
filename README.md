@@ -1,7 +1,10 @@
 # Website Example
 https://pensive-mestorf-297a1a.netlify.com
 
-# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The burger application isn't able to access Orders due to the structure has changed to REDUX.  
+It can refer to the new repository in [burger-app-redux](https://github.com/wulaiyin789/burger-app-redux)
+
+*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
